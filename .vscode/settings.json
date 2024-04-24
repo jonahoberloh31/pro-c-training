@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "TrainingProject.sln",
+    "razor.format.codeBlockBraceOnNextLine": true
+}

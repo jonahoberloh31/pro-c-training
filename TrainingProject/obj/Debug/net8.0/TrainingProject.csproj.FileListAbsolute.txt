@@ -1,0 +1,14 @@
+c:\repositories\pro-c-training\TrainingProject\bin\Debug\net8.0\TrainingProject.exe
+c:\repositories\pro-c-training\TrainingProject\bin\Debug\net8.0\TrainingProject.deps.json
+c:\repositories\pro-c-training\TrainingProject\bin\Debug\net8.0\TrainingProject.runtimeconfig.json
+c:\repositories\pro-c-training\TrainingProject\bin\Debug\net8.0\TrainingProject.dll
+c:\repositories\pro-c-training\TrainingProject\bin\Debug\net8.0\TrainingProject.pdb
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\TrainingProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\TrainingProject.AssemblyInfoInputs.cache
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\TrainingProject.AssemblyInfo.cs
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\TrainingProject.csproj.CoreCompileInputs.cache
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\TrainingProject.dll
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\refint\TrainingProject.dll
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\TrainingProject.pdb
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\TrainingProject.genruntimeconfig.cache
+c:\repositories\pro-c-training\TrainingProject\obj\Debug\net8.0\ref\TrainingProject.dll
